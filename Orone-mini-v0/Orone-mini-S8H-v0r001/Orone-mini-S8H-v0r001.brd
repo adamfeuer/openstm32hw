@@ -254,12 +254,6 @@
 <text x="35.6616" y="17.0688" size="1.27" layer="22" font="vector" ratio="20" rot="MR0">usb</text>
 <text x="36.2712" y="15.5448" size="1.27" layer="22" font="vector" ratio="20" rot="MR0">only</text>
 <wire x1="60.96" y1="0" x2="60.96" y2="25.4" width="0" layer="20"/>
-<hole x="58.93435" y="18.28165" drill="0.8"/>
-<hole x="59.22645" y="18.28165" drill="0.8"/>
-<hole x="59.50585" y="18.28165" drill="0.8"/>
-<hole x="59.21375" y="10.97915" drill="0.8"/>
-<hole x="58.9407" y="10.97915" drill="0.8"/>
-<hole x="59.49315" y="10.97915" drill="0.8"/>
 </plain>
 <libraries>
 <library name="SparkFun2">
